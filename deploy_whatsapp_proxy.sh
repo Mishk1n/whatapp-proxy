@@ -3,7 +3,7 @@
 # WhatsApp Proxy Auto-Deployment Script
 # Использует официальный прокси от Meta (WhatsApp/proxy)
 
-set -e  # Остановка при любой ошибке
+#set -e  # Остановка при любой ошибке
 
 # Цвета для вывода
 RED='\033[0;31m'
